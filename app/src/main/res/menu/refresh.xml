@@ -1,0 +1,9 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_cart"
+        android:title="@string/common_signin_button_text"
+        android:icon="@mipmap/ic_white_reload"
+        android:orderInCategory="100"
+        app:showAsAction="always"/>
+</menu>
